@@ -1,0 +1,11 @@
+python-dotenv==1.0.1
+mpmath==1.3.0
+pathway
+chromadb
+sentence_transformers
+semanticscholar
+spacy
+numpy
+pandas
+pydantic
+langchain
