@@ -6,8 +6,6 @@ The exponential growth in research publications calls for innovative AI-driven s
 
 The framework leverages advanced tools like Google Gemini API and Pathway's AI capabilities to deliver scalable, accurate, and efficient workflows, reducing the manual workload for researchers and reviewers.  
 
----
-
 ## Key Features  
 
 1. **Research Paper Publishability Assessment**  
@@ -33,8 +31,6 @@ The challenge lies in evaluating research papers for logical coherence, methodol
 ### Task 2: Conference Selection  
 For "Publishable" papers, the task involves identifying the most suitable academic conference by aligning the paper’s content with the themes and focus areas of leading conferences.  
 
----
-
 ## Methodology  
 
 ### Task 1: Publishability Assessment  
@@ -55,9 +51,8 @@ For "Publishable" papers, the task involves identifying the most suitable academ
    - Results are validated using labeled reference papers, with metrics like accuracy and F1 Score calculated.  
 
 <p align="center">
-  <img src="https://github.com/mahita2104/ResearchAssistant/blob/main/architecture.png" height="320" />
+  <img src="https://github.com/mahita2104/ResearchAssistant/blob/main/architecture.png" />
 </p> 
----
 
 ### Task 2: Conference Selection  
 1. **Embedding Generation**  
@@ -73,8 +68,6 @@ For "Publishable" papers, the task involves identifying the most suitable academ
 4. **Output**  
    - Produces a CSV file with the paper ID, publishability status, recommended conference, and rationale.  
 
----
-
 ## Technologies Used  
 
 - **Google Gemini API:** For publishability assessment.  
@@ -82,18 +75,18 @@ For "Publishable" papers, the task involves identifying the most suitable academ
 - **Programming Languages:** Python for data preprocessing and integration.  
 - **Output Format:** CSV files for results consolidation.  
 
----
-
 ## Results  
 
 - **Task 1:** Accurate classification of papers into "Publishable" or "Non-Publishable" categories, validated through performance metrics.
 <p align="center">
-  <img src="https://github.com/mahita2104/ResearchAssistant/blob/main/task1_results.jpg" height="320" />
+  <img src="https://github.com/mahita2104/ResearchAssistant/blob/main/task1_results.jpg" />
 </p> 
+
 - **Task 2:** Precise recommendations for suitable conferences, with well-documented rationales.  
 <p align="center">
-  <img src="https://github.com/mahita2104/ResearchAssistant/blob/main/task2_results.png" height="320" />
+  <img src="https://github.com/mahita2104/ResearchAssistant/blob/main/task2_results.png" />
 </p> 
+
 ---
 
 ## Future Work  
@@ -101,5 +94,3 @@ For "Publishable" papers, the task involves identifying the most suitable academ
 - Extend conference database to include more venues.  
 - Incorporate additional validation datasets to improve publishability classification.  
 - Enhance scalability for broader academic use cases.  
-
----
