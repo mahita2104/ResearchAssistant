@@ -51,7 +51,7 @@ For "Publishable" papers, the task involves identifying the most suitable academ
    - Results are validated using labeled reference papers, with metrics like accuracy and F1 Score calculated.  
 
 <p align="center">
-  <img src="https://github.com/mahita2104/ResearchAssistant/blob/main/architecture.png" />
+  <img src="https://github.com/mahita2104/ResearchAssistant/blob/main/images/architecture.png" />
 </p> 
 
 ### Task 2: Conference Selection  
@@ -79,12 +79,12 @@ For "Publishable" papers, the task involves identifying the most suitable academ
 
 - **Task 1:** Accurate classification of papers into "Publishable" or "Non-Publishable" categories, validated through performance metrics.
 <p align="center">
-  <img src="https://github.com/mahita2104/ResearchAssistant/blob/main/task1_results.jpg" />
+  <img src="https://github.com/mahita2104/ResearchAssistant/blob/main/images/task1_results.jpg" />
 </p> 
 
 - **Task 2:** Precise recommendations for suitable conferences, with well-documented rationales.  
 <p align="center">
-  <img src="https://github.com/mahita2104/ResearchAssistant/blob/main/task2_results.png" />
+  <img src="https://github.com/mahita2104/ResearchAssistant/blob/main/images/task2_results.png" />
 </p> 
 
 ---
